@@ -1,0 +1,1 @@
+v1.4.2: fixed a bug where the brain replayed your most embarrassing memory from 2009 at 3am instead of running sleep mode.
